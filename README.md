@@ -5,7 +5,7 @@ This is icon of app viewing from my phone
 
 ![295536197_5731623313537765_358559823700974876_n](https://user-images.githubusercontent.com/90353674/182758811-bbe85f9d-0d92-4887-a584-04c592a95157.jpg)
 
-### Welcome Page
+## Welcome Page
 
 ![Screen Shot 2022-08-03 at 7 38 22 PM](https://user-images.githubusercontent.com/90353674/182758850-4dd10434-cc53-4604-bfdb-df5cb78954e4.png)
 
