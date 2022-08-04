@@ -9,9 +9,9 @@ This is icon of app viewing from my phone
 
 ![Screen Shot 2022-08-03 at 7 38 22 PM](https://user-images.githubusercontent.com/90353674/182758850-4dd10434-cc53-4604-bfdb-df5cb78954e4.png)
 
-This application needs users' authorization to share their location by clicking the Share Location button below
+This application needs users' authorization to share their location by clicking the Share Location button above
 
-![Screen Shot 2022-08-03 at 7 38 22 PM](https://user-images.githubusercontent.com/90353674/182758952-8e664053-0154-436a-baf7-19b48867768d.png)
+## Weather Page
 
 After successfully getting the coordinate of the user's location. It will send the longitude and the latitude to openweather.org API to fetch the current weather data at the user location
 
