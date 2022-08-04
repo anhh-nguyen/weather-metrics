@@ -2,6 +2,7 @@
 A weather iOS app that display dynamic weather data from user's location using Core Location framework 
 
 This is icon of app viewing from my phone
+
 ![295536197_5731623313537765_358559823700974876_n](https://user-images.githubusercontent.com/90353674/182758811-bbe85f9d-0d92-4887-a584-04c592a95157.jpg)
 
 ### Welcome Page
